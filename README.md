@@ -32,8 +32,14 @@ Install HACK-SUMMIT-3.0 with git
 - SSH Key Encrption
 - Cross platform
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = krishmakhijani/HACK-SUMMIT-3.0"/>
-</a>
+Disclaimer
+----------
 
-Made with [contributors-img](https://contrib.rocks).
+.. disclaimer-start
+
+Subkripton is in no way affiliated with, authorized, maintained or endorsed by any subscription model based web-application or any of its affiliates or
+subsidiaries. This is an independent and unofficial project. Use at your own risk.
+
+Subkripton is licensed under an MIT license. Refer to ``LICENSE`` file for more information.
+
+.. disclaimer-end
