@@ -35,11 +35,8 @@ Install HACK-SUMMIT-3.0 with git
 Disclaimer
 ----------
 
-.. disclaimer-start
-
 Subkripton is in no way affiliated with, authorized, maintained or endorsed by any subscription model based web-application or any of its affiliates or
 subsidiaries. This is an independent and unofficial project. Use at your own risk.
 
 Subkripton is licensed under an MIT license. Refer to ``LICENSE`` file for more information.
 
-.. disclaimer-end
